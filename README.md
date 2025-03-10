@@ -14,3 +14,5 @@ Aqui é a Maria Denardi! 💖
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31tujilasyzyjdg2ynqye2p34oki?si=ORFd_pOvTxq3qPztSytcGQ)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaDenardi&show_icons=true&theme=merko)
+
+[![My Skills](https://skillicons.dev/icons?i=gmail,instagram,notion,github)](https://skillicons.dev)
