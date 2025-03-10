@@ -3,10 +3,11 @@
 *Oie!* 👋
 Aqui é a Maria Denardi! 💖
 
-#6°CPM - Pato Branco 🎖
-#Turma de Exatas 📊
-#Aviação ✈
-#3°ano 🏆
+• Estou atualmente cursando o 3°ano do Ens. Médio no 6°CPM.🎖️
+
+• Estou participando da Olimpíada Nacional de Inteligência Artificial (ONIA), rumo à fase internacional.🤖
+
+• Pretendo cursar engenharia aeronáutica no ITA.✈️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maduda_denardi?igsh=bmM2aWhidWFhdG5o)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mariaeadenardi?si=AiQwtNvkQy-qhECm)
