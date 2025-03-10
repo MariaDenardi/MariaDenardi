@@ -13,4 +13,4 @@ Aqui é a Maria Denardi! 💖
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mariaeadenardi?si=AiQwtNvkQy-qhECm)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31tujilasyzyjdg2ynqye2p34oki?si=ORFd_pOvTxq3qPztSytcGQ)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaDenardi)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaDenardi)](https://github.com/anuraghazra/github-readme-merko)
