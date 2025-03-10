@@ -1,4 +1,4 @@
-![21e2e73eb9a9984e3b407328f65f5e5b](https://github.com/user-attachments/assets/1204e012-4396-4c1c-b172-8b74aeac01fa)
+![7be5a1cb85ca4d0483c1ff17a487d50a](https://github.com/user-attachments/assets/37205a99-4a74-4361-b2bd-3930aad3f0db)
 
 *Oie!* 👋
 Aqui é a Maria Denardi! 💖
