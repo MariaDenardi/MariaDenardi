@@ -18,5 +18,3 @@ Aqui é a Maria Denardi! 💖
 [![My Skills](https://skillicons.dev/icons?i=gmail,instagram,notion,github)](https://skillicons.dev)
 
 ![203a3d87bb5f18116969a00723a373ef](https://github.com/user-attachments/assets/df0edd1f-4343-4351-a6f9-dfe74c22c6cd)
-
-![ITA_logo](https://github.com/user-attachments/assets/9bea50d5-b0ef-4057-9d0f-948d0f9c5940)
