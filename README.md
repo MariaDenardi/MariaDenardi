@@ -15,6 +15,6 @@ Aqui é a Maria Denardi! 💖
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaDenardi&show_icons=true&theme=merko)
 
-[![My Skills](https://skillicons.dev/icons?i=gmail,instagram,notion,github,javasript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gmail,instagram,notion,github,vscode)](https://skillicons.dev)
 
 ![203a3d87bb5f18116969a00723a373ef](https://github.com/user-attachments/assets/df0edd1f-4343-4351-a6f9-dfe74c22c6cd)
